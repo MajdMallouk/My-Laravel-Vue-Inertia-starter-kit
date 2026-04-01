@@ -5,7 +5,7 @@ You're welcome.
 
 
 ```bash 
-git clone https://github.com/MajdMallouk/LaraVue-kit.git MnM && cd majd.me && composer install && npm install && cp .env.example .env && php artisan key:generate && php artisan migrate && php artisan db:seed && npm run build && composer run dev
+git clone https://github.com/MajdMallouk/LaraVue-kit.git MnM && cd MnM && composer install && npm install && cp .env.example .env && php artisan key:generate && php artisan migrate && php artisan db:seed && npm run build && composer run dev
 ```
 
 This command will:
